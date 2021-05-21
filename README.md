@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sumiya Arafin
 - 👀 I’m interested in web development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
       Email:sumiyaarafin125@gmail.com
 
