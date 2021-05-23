@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumiya Arafin
-- 👀 I’m interested in web development.
+- 👀 I’m interested in Software development.
 - 📫  Email:sumiyaarafin125@gmail.com
 
 <!---
